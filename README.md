@@ -53,5 +53,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [alexandre-pouivet.fr](http://www.alexandre-pouivet.fr)
-- GitHub [@alexPouivet](https://{github.com/alexPouivet})
-- Twitter [@alex_pouiv](https://{twitter.com/alex_pouiv})
+- GitHub [@alexPouivet](https://github.com/alexPouivet)
+- Twitter [@alex_pouiv](https://twitter.com/alex_pouiv)
