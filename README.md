@@ -30,20 +30,12 @@
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
 ![screenshot](/screenshot.png)
-
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
 ### Built With
 
@@ -60,6 +52,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](http://www.alexandre-pouivet.fr)
-- GitHub [@your-username](https://{github.com/alexPouivet})
-- Twitter [@your-twitter](https://{twitter.com/alex_pouiv})
+- Website [alexandre-pouivet.fr](http://www.alexandre-pouivet.fr)
+- GitHub [@alexPouivet](https://{github.com/alexPouivet})
+- Twitter [@alex_pouiv](https://{twitter.com/alex_pouiv})
